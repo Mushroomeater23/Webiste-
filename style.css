@@ -1,1 +1,40 @@
+ h1, h2 {
+        text-align: center;
+      }
+     h1 {
+        margin-top: 185px;
+    }
 
+    h1 {
+        font-size: 46px
+    }
+    header{
+        
+        background-color:rgb(255, 255, 255)85);
+        color: white;
+        padding: 20px 0;
+        text-align: center;
+        
+        
+    }
+    .icon-list {
+  list-style: none;
+  padding: 0;
+  font-size: 17px
+  display: flex; align-items: center; a
+  justify-content: space-between;
+  margin: 0 12px;
+  font-size: 20px
+  
+  
+}
+
+.icon-list li {
+  display: inline-block;
+  margin: 0 22px;
+}
+
+.icon-list li a {
+  color: white;
+  text-decoration: none;
+}
