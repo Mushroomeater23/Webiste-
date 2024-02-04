@@ -1,4 +1,10 @@
- h1, h2 {
+body {
+            background-image: url('https://cdn.nimbusthemes.com/2017/09/09233341/Free-Nature-Backgrounds-Seaport-During-Daytime-by-Pexels.jpeg');
+            background-size: cover; 
+            background-repeat: no-repeat; 
+        }
+
+h1, h2 {
         text-align: center;
       }
      h1 {
